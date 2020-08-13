@@ -1,0 +1,17 @@
+{
+  "name": "learnui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx shadow-cljs watch app"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.10.21"
+  },
+  "dependencies": {
+    "decimal.js": "^10.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
